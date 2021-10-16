@@ -1,4 +1,4 @@
-# -team-profile-generator
+# team-profile-generator
 
 Template Engine - Employee Summary
 
