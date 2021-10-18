@@ -11,8 +11,8 @@ ScreenShot -
 The following screenshot shows the generated HTML Homescreen:
 ![team-profile-generator](./assets/TeamMemberScreenShot.png)
 
+Screen View - 
+https://watch.screencastify.com/v/AVLH8rekAjbSNyy2TXTD
+
 Installation
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
-
-License
-This project is license under MIT
